@@ -43,8 +43,4 @@ print('hello, world. This is my first python string.'.split(','))
 #3.9
 
 # message = 'Tom's id is 123'
-<<<<<<< HEAD
 # print(message)
-=======
-# print(message)
->>>>>>> 727d2fdcead77ff370f46520df97372a7b99364e
